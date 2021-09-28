@@ -65,12 +65,28 @@ header a{
 
 /* statement */
 
-.statement-image {
-    background: red;
+.statement-container{
+    background: yellow;
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
+
+.statement-image-container {
+    height: 300px;
+    width: 40%;
+    border-radius: 5%;
+    
+    
+}
+
+
 
 .statement-text {
     background: blue;
+    height: 300px;
+    width: 50%;
 }
 /* For smaller screen sizes from 540px and down*/
 @media screen and (max-width: 540px){
