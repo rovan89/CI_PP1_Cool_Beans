@@ -12,7 +12,7 @@
 body{
     font-family: roboto, sans-serif;
     font-weight: 300;
-    
+    background-color: red;
 }
 
 header{
@@ -28,79 +28,25 @@ header a{
 
 /* navigation links */
 
+.nav-menu {
+    float: right;
+    text-transform: uppercase;
+    color: white;
+    
+}
+
+.nav-menu li {
+    list-style-type: none;
+    margin-right: 25px; 
+    display: inline;
+    text-align: center;
+}
+
+.nav-menu li:hover {
+    color: #232126;
+}
+
 /* For smaller screen sizes from 540px and down*/
 @media screen and (max-width: 540px){
-    nav {
-        height: 80px;
-        width: 100%;
-        display: flex;
-        justify-content: space-between;
-    }
-
-    .logo-container {
-        display: flex;
-        align-items: center;
-        width: auto;
-        margin: 0;
-    }
-
-    .logo {
-        font-size: 30px;
-        line-height: 75px;
-        padding-left: 10px;
-        font-weight: bold;
-        color: white;
-    }
-
-    #navbar{
-        position: fixed;
-        width: 100%;
-        height: 0vh;
-        top: 80px;
-        float: right;
-        background-color: #232126;
-        text-align: center;
-        transition: all .5s;
-
-    }
-
-    #navbar li {
-        opacity: 1;
-        line-height: 30px;
-        margin: 50px 0;
-        transition: all .5s;
-    }
-
-    #navbar li a {
-        color: white;
-        font-size: 20px;
-        text-transform: uppercase;
-    }
-
-    #navbar li a.navbar-left, #navbar li a:hover {
-        color: #BF7330;
-        transition: 0.5s;
-    }
     
-    .hamburger-btn {
-        display: block;
-        font-size: 30px;
-        color: white;
-        float: right;
-        line-height: 80px;
-        margin-right: 40px;
-        cursor: pointer;
-    }
-
-    #check {
-        display: none;
-    }
-
-    #check:checked ~ #navbar{
-        height: 100%;
-    }
-
-    #check:checked ~ #navbar{
-        opacity: 1;
-    }
 }
