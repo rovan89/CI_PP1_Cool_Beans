@@ -12,7 +12,7 @@
 body{
     font-family: roboto, sans-serif;
     font-weight: 300;
-    background-color: red;
+    
 }
 
 header{
@@ -56,6 +56,22 @@ header a{
     color: #232126;
 }
 
+#hero-image {
+    background: url('../css/images/pexels-photo.jpg') ;
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+}
+
+/* statement */
+
+.statement-image {
+    background: red;
+}
+
+.statement-text {
+    background: blue;
+}
 /* For smaller screen sizes from 540px and down*/
 @media screen and (max-width: 540px){
     
