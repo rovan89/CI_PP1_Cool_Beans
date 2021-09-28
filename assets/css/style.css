@@ -19,6 +19,10 @@ header{
     background: #BF7330;
     height: 80px;
     width: 100%;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 header a{
@@ -26,6 +30,12 @@ header a{
     color: inherit;
 }
 
+/* logo */
+
+.logo {
+    padding-left: 25px;
+    color: white;
+}
 /* navigation links */
 
 .nav-menu {
