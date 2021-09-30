@@ -153,8 +153,39 @@ header a{
     text-align: center;
     
 }
-/*<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=castle%20west%20&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org"></a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style><a href="https://www.embedgooglemap.net">google maps iframe generator</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div></div>*/
+/* footer */
 
+footer {
+    height: 200px;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border:2px solid #232126;
+    
+}
+
+.footer-address {
+    height: 150px;
+    width: 33%;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.footer-address h3 {
+    padding-bottom: 3%;
+}
+.footer-address p {
+  
+}
+
+
+.footer-scocial-media-icons {
+    background: red;
+    height: 150px;
+    width: 33%;
+}
 /* For smaller screen sizes from 540px and down*/
 @media screen and (max-width: 540px){
     
