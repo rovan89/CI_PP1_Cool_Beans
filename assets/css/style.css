@@ -181,11 +181,16 @@ footer {
 }
 
 
-.footer-scocial-media-icons {
+.footer-social-media-icons {
     background: red;
     height: 150px;
     width: 33%;
 }
+
+.social-media-icons {
+    background: blue;
+}
+
 /* For smaller screen sizes from 540px and down*/
 @media screen and (max-width: 540px){
     
