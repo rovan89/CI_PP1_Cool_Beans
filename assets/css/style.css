@@ -11,7 +11,8 @@
 
 body{
     font-family: roboto, sans-serif;
-    font-weight: 300;
+    font-weight: 400;
+    color: #232126;
     
 }
 
@@ -23,6 +24,7 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    border-top:2px solid #232126;
 }
 
 header a{
@@ -35,6 +37,7 @@ header a{
 .logo {
     padding-left: 25px;
     color: white;
+    font-size: 40px;
 }
 /* navigation links */
 
@@ -50,6 +53,7 @@ header a{
     margin-right: 25px; 
     display: inline;
     text-align: center;
+    font-size: 30px;
 }
 
 .nav-menu li:hover {
@@ -61,12 +65,12 @@ header a{
     height: 400px;
     width: 100%;
     background-size: cover;
+    border: 2px solid #232126;
 }
 
 /* statement */
 
 .statement-container{
-    background: yellow;
     height: 400px;
     display: flex;
     justify-content: space-around;
@@ -77,21 +81,34 @@ header a{
     height: 300px;
     flex: 0 0 45vh;
     border-radius: 50%;
-    border: 5px solid #BF7330;
-    background: url('../css/images/pexels-chevanon-photography-302899.jpg') no-repeat center center fixed;
-    background-size: 50%;
-    background-position: background-position: center center;
+    border: 4px solid #BF7330;
+    background: url('../css/images/pexels-chevanon-photography-302899.jpg') no-repeat center;
+    background-size: 150%;   
+    box-shadow: 0 3px 10px rgb(0 0 0 / 1); 
     
     
 }
 
-
+.statement-text h2 {
+    padding-left: 12.5%;
+    padding-top: 10%;
+}
 
 .statement-text {
-    background: blue;
     height: 300px;
-    width: 50%;
+    width: 45%;
+    border: 4px solid #BF7330;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 1);
+
 }
+
+.statement-text p {
+    padding: 12.5%;
+    padding-top: 2%;
+}
+
+
 /* For smaller screen sizes from 540px and down*/
 @media screen and (max-width: 540px){
     
