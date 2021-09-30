@@ -107,7 +107,53 @@ header a{
     padding: 12.5%;
     padding-top: 2%;
 }
+/* opening hours */
 
+.opening-hours-container {
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #232126;
+}
+
+.opening-hours-text-container {
+    height: 300px;
+    width: 45%;
+    border: 4px solid #BF7330;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 1);
+}
+
+.opening-hours-text-container h2 {
+    color: white;
+    padding-left: 12.5%;
+    padding-top: 10%;
+}
+
+.opening-hours-text-container ul{
+    color: white;
+    padding: 12.5%;
+    padding-top: 2%;
+    line-height: 1.5;
+}
+.opening-hours-map-container {
+    height: 300px;
+    flex: 0 0 45vh;
+    border-radius: 50%;
+    border: 4px solid #BF7330;
+    background-size: 150%;   
+    box-shadow: 0 3px 10px rgb(0 0 0 / 1); 
+    position: relative;
+}
+
+.opening-hours-map-container, .google-map {
+    overflow: hidden;
+    border-radius: 50%;
+    text-align: center;
+    
+}
+/*<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=castle%20west%20&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org"></a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style><a href="https://www.embedgooglemap.net">google maps iframe generator</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div></div>*/
 
 /* For smaller screen sizes from 540px and down*/
 @media screen and (max-width: 540px){
