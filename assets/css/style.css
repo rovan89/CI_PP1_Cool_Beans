@@ -24,14 +24,21 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-top:2px solid #232126;
+    border-bottom: 2px solid #232126;
 }
 
 header a{
-    
     color: inherit;
 }
 
+.page-heading {
+    padding: 1%;
+    color: #BF7330;
+    font-size: 400%;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 0 #232126;
+}
 /* logo */
 
 .logo {
