@@ -48,6 +48,15 @@ header a{
     background-size: 150%;   
     box-shadow: 0 3px 10px rgb(0 0 0 / 1); 
 }
+
+.video-container {
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 4px solid #BF7330;
+    border-radius: 10px;
+}
 /* logo */
 
 .logo {
@@ -278,7 +287,21 @@ table tr {
     background-size: 100%;
 }
 
+#our-mission-video-statemant-div {
+    background-color: #232126;
+}
 
+.video-container {
+    background-color: white;
+}
+
+#statement-text-dark-background {
+    color: white;
+}
+
+#statement-text-dark-background a {
+    color: #BF7330;
+}
 /* For smaller screen sizes from 540px and down*/
 @media screen and (max-width: 540px){
     
