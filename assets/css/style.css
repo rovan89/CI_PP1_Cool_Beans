@@ -39,6 +39,15 @@ header a{
     text-transform: uppercase;
     text-shadow: 1px 1px 0 #232126;
 }
+
+.circle-container {
+    height: 300px;
+    flex: 0 0 45vh;
+    border-radius: 50%;
+    border: 4px solid #BF7330;
+    background-size: 150%;   
+    box-shadow: 0 3px 10px rgb(0 0 0 / 1); 
+}
 /* logo */
 
 .logo {
@@ -262,7 +271,12 @@ table tr {
     width: 50%;
 }
 
+/* our mission */
 
+#our-mission-image {
+    background: url('../css/images/pexels-pixabay-162994.jpg') no-repeat center;
+    background-size: 100%;
+}
 
 
 /* For smaller screen sizes from 540px and down*/
