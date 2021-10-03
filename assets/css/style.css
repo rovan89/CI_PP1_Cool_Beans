@@ -90,6 +90,7 @@ header a{
 
 .statement-text h2 {
     padding-left: 12.5%;
+    padding-right: 12.5%;
     padding-top: 10%;
 }
 
@@ -161,7 +162,7 @@ footer {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    border:2px solid #232126;*/
+    border:2px solid #232126;
     
 }
 
@@ -213,6 +214,45 @@ footer {
     background-size: 150%;   
     box-shadow: 0 3px 10px rgb(0 0 0 / 1); 
     
+}
+
+/* menu table*/
+
+#table-container {
+    background-color: #232126;
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#table-container th {
+    text-decoration: 2px underline #BF7330;
+    
+}
+
+table {
+    color: white;
+    width: 45%;
+    height: 300px;
+    text-align: center;
+    border: 4px solid #BF7330;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 1);
+    
+    
+    
+    
+    
+}
+
+thead {
+    text-align: center;
+}
+
+table tr {
+    width: 50%;
 }
 
 
