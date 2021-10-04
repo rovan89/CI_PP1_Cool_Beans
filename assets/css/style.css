@@ -363,6 +363,9 @@ table tr {
     height: 100vh;
 }
 
+.form-input-feild {
+    border: 1px solid #BF7330;
+}
 /* For smaller screen sizes from 540px and down*/
 @media screen and (max-width: 540px){
     
