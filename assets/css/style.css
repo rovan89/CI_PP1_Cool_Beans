@@ -332,6 +332,21 @@ table tr {
     background-color: #232126;
 }
 
+/* gallery */
+
+.gallery-image-container {
+    display: flex;
+    justify-content: center;
+}
+
+.gallery-images {
+    padding: 1em;
+    margin: 0.5em;
+    border: 4px solid #BF7330;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 1);
+}
+
 /* For smaller screen sizes from 540px and down*/
 @media screen and (max-width: 540px){
     
