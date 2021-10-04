@@ -228,6 +228,10 @@ footer {
     padding-top: 10%;
 }
 
+.social-media-icons i:hover {
+    color: #BF7330;
+}
+
 /* menu */
 
 .menu-statement-image-container {
@@ -300,6 +304,10 @@ table tr {
 }
 
 #statement-text-dark-background a {
+    color: white;
+}
+
+#statement-text-dark-background a:hover {
     color: #BF7330;
 }
 /* For smaller screen sizes from 540px and down*/
