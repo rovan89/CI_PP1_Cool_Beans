@@ -352,6 +352,10 @@ table tr {
     box-shadow: 0 3px 10px rgb(0 0 0 / 1);
 }
 
+#gallery-page-circle-image {
+    background: url("../css/images/pexels-tim-douglas-6205461.jpg") center;
+}
+
 /* For smaller screen sizes from 540px and down*/
 @media screen and (max-width: 540px){
     
