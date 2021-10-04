@@ -85,16 +85,18 @@ header a{
     color: #232126;
 }
 
-#hero-image {
-    background: url('../css/images/pexels-photo.jpg') ;
+.hero-image {
     height: 400px;
     width: 100%;
     background-size: cover;
     border: 2px solid #232126;
 }
 
-/* statement */
+/* home page */
 
+#hero-image-home-page {
+    background: url("../css/images/pexels-photo.jpg");
+}
 .statement-container{
     height: 400px;
     display: flex;
@@ -310,17 +312,24 @@ table tr {
 #statement-text-dark-background a:hover {
     color: #BF7330;
 }
+/* location */
 
 #google-map-square-container {
     height: 300px;
     width: 300px;
     border-radius: 10px;
+    
 }
 
 #google-map-square {
-    height: 300px;
-    width: 325px;
+    height:100%;
+    width: 100%;
     border-radius: 10px;
+}
+
+#hero-image-location-page {
+    background: url("../css/images/pexels-tim-douglas-6205759.jpg")  center no-repeat;
+    background-color: #232126;
 }
 
 /* For smaller screen sizes from 540px and down*/
