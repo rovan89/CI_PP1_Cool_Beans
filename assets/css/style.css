@@ -356,6 +356,13 @@ table tr {
     background: url("../css/images/pexels-tim-douglas-6205461.jpg") center;
 }
 
+/* contact page */
+
+#hero-image-contact-page {
+    background: url("../css/images/pexels-tim-douglas-6205494.jpg") center center no-repeat;
+    height: 100vh;
+}
+
 /* For smaller screen sizes from 540px and down*/
 @media screen and (max-width: 540px){
     
