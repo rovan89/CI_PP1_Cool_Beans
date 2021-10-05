@@ -460,6 +460,20 @@ input, #email, textarea, label {
         background: blue;
     }
 
+    header {
+        flex-wrap: wrap;
+    }
+
+    .nav-menu {
+        width: 100vw; 
+        text-align: center;
+    }
+
+    .nav-menu li {
+        width: 100%;
+        font-size: 150%;
+        
+    }
     footer {
         height: 400px;
         flex-wrap: wrap-reverse;
