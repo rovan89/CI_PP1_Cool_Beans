@@ -106,7 +106,8 @@ header a{
 
 .statement-image-container {
     height: 300px;
-    flex: 0 0 45vh;
+    width: 300px;
+    
     border-radius: 50%;
     border: 4px solid #BF7330;
     background: url('../css/images/pexels-chevanon-photography-302899.jpg') no-repeat center;
