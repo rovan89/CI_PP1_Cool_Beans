@@ -363,9 +363,81 @@ table tr {
     height: 100vh;
 }
 
+.full-form-container {
+    height: 80vh;
+}
+
+.new {
+    background-color: #232126;
+    height: 60vh;
+    width: 500px;
+    border: 5px solid #BF7330;
+    border-radius: 10px;
+    
+}
+
 .form-input-feild {
     border: 1px solid #BF7330;
+    border-radius: 2px;
+    display: inline-block;
 }
+
+#full-name-form-container {
+    width: 100%;
+}
+
+form {
+    background: #232126;
+    overflow: hidden;
+    margin: 2%;
+    text-align: left;
+}
+
+label {
+    color: white;
+    background-color: #232126;
+    float: left;
+    width: 200px;
+    padding-right: 20px;
+    margin-top: 10px;
+}
+ 
+
+input {
+    background-color: white;
+}
+
+.site-button {
+    padding: 1%;
+    color: #232126;
+    background-color: #BF7330;
+    margin-top: 10px;
+    width: 20%;
+    border-radius: 10px;
+}
+
+.site-button:hover {
+    padding: 1%;
+    color: #BF7330;
+    background-color: #232126;
+    border: 1px solid #BF7330;
+    
+}
+
+textarea {
+    height: 80px;
+    resize: none;
+}
+
+input, #email, textarea, label {
+    
+    justify-content: center;
+    width: calc(100% - 200px);
+    padding: 1%;
+}
+
+ 
+
 /* For smaller screen sizes from 540px and down*/
 @media screen and (max-width: 540px){
     
