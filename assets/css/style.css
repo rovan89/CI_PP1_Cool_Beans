@@ -232,6 +232,7 @@ footer {
 
 .social-media-icons i:hover {
     color: #BF7330;
+    transform: scale(1.2);
 }
 
 /* menu */
@@ -367,12 +368,23 @@ table tr {
     height: 80vh;
 }
 
-.new {
+.sub-heading-3 {
+    color: #BF7330;
+    font-size: 200%;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 0 #232126;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #232126;
+}
+.inner-form-container {
     background-color: #232126;
     height: 60vh;
     width: 500px;
     border: 5px solid #BF7330;
     border-radius: 10px;
+    margin-top: 5%;
     
 }
 
