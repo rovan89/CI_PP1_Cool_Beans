@@ -503,6 +503,10 @@ input, #email, textarea, label {
         width: 400px;
     }
 
+    .gallery-images {
+        height: 20vh;
+        padding: .5em;
+    }
     /* For smaller screen sizes from 640px and down*/
 @media screen and (max-width: 640px){
     .statement-container, .opening-hours-container {
@@ -544,6 +548,10 @@ input, #email, textarea, label {
 
     .page-heading {
         font-size: 250%;
+    }
+
+    .gallery-images {
+        height: 15vh;
     }
 }
 
