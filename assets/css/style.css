@@ -542,5 +542,8 @@ input, #email, textarea, label {
         margin-left: 10%;
     }
 
+    .page-heading {
+        font-size: 250%;
+    }
 }
 
