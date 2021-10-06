@@ -14,12 +14,12 @@ body{
     font-family: 'Raleway', sans-serif;
     font-weight: 400;
     color: #232126;
-    
-    
 }
+
  h1, h2, h3 {
     font-family: 'Caveat', cursive;
  }
+ 
 header{
     background: #BF7330;
     height: 80px;
@@ -515,7 +515,7 @@ input, #email, textarea, label {
         height: 20vh;
         padding: .5em;
     }
-    /* For smaller screen sizes from 640px and down*/
+/* For smaller screen sizes from 640px and down*/
 @media screen and (max-width: 640px){
     .statement-container, .opening-hours-container {
         flex-wrap: wrap;
@@ -561,16 +561,13 @@ input, #email, textarea, label {
     .gallery-images {
         height: 15vh;
     }
+}
 
-    /* For smaller screen sizes from 440px and down*/
+/* For smaller screen sizes from 440px and down*/
 @media screen and (max-width: 440px){
-    
+
     footer {
         height: 600px;
     }
-    
-    .statement-container {
-        
-    }
 }
-
+}
