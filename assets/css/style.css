@@ -15,6 +15,7 @@ body{
     font-weight: 400;
     color: #232126;
     
+    
 }
  h1, h2, h3 {
     font-family: 'Caveat', cursive;
@@ -39,7 +40,7 @@ header a{
     color: #232126;
     font-size: 400%;
     text-align: center;
-    text-transform: uppercase;
+    
     text-shadow: 1px 2px 0 #BF7330;
 }
 
@@ -169,8 +170,11 @@ header a{
     color: white;
     padding: 12.5%;
     padding-top: 2%;
-    line-height: 1.5;
+    line-height: 2em;
 }
+
+
+
 /*.opening-hours-map-container {
     height: 300px;
     flex: 0 0 45vh;
