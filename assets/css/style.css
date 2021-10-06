@@ -291,6 +291,10 @@ table tr {
     width: 50%;
 }
 
+#table-two {
+    display: none;
+}
+
 /* our mission */
 
 #our-mission-image {
@@ -495,6 +499,10 @@ input, #email, textarea, label {
         width: 300px;
     }
 
+    table {
+        width: 400px;
+    }
+
     /* For smaller screen sizes from 640px and down*/
 @media screen and (max-width: 640px){
     .statement-container, .opening-hours-container {
@@ -510,5 +518,29 @@ input, #email, textarea, label {
     .footer-address {
         width: 100%;
     }
+
+    table {
+        display: none;
+    }
+
+    #table-two {
+        display: block;
+    }
+
+    #table-container {
+        height: 700px;
+    }
+
+    #table-two {
+        height: 500px;
+        width: 300px;
+        padding: 10%;
+        padding-top: 2%;
+    }
+
+    #table-two tbody {
+        margin-left: 10%;
+    }
+
 }
 
