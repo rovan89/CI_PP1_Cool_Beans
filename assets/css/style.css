@@ -485,5 +485,14 @@ input, #email, textarea, label {
     body{
         background: red;
     }
+
+    .statement-container {
+        height: 500px;
+    }
+
+    .statement-text {
+        height: 400px;
+        width: 300px;
+    }
 }
 
