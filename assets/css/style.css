@@ -494,5 +494,21 @@ input, #email, textarea, label {
         height: 400px;
         width: 300px;
     }
+
+    /* For smaller screen sizes from 640px and down*/
+@media screen and (max-width: 640px){
+    .statement-container, .opening-hours-container {
+        flex-wrap: wrap;
+        margin: 3%;
+        height: 800px;
+    }
+
+    .opening-hours-container {
+        width: 100%;
+    }
+
+    .footer-address {
+        width: 100%;
+    }
 }
 
