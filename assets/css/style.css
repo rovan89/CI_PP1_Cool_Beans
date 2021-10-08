@@ -112,9 +112,13 @@ header a{
     border: 2px solid #232126;
     border-radius: 25px;
     box-shadow: 0 3px 10px rgb(0 0 0 / 1);
-    transform: scale(1.2);
 }
-
+.subscribe-link:hover {
+    color: #232126;
+    background: white;
+    cursor: pointer;
+    
+}
 
 /**/
 .circle-container {
