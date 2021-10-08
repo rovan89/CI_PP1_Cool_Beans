@@ -21,11 +21,7 @@ body{
  }
  
 /* header */
- header {
-    background: url(../css/images/pexels-chevanon-photography-302894.jpg) no-repeat center;
-    background-size: 100%;
-    height: 600px;
- }
+
 header a{
     color: inherit;
 }
@@ -40,7 +36,11 @@ header a{
 }
 
 /* logo & navigation bar*/
-
+#home-page-nav-logo-container {
+    background: url(../css/images/pexels-chevanon-photography-302894.jpg) no-repeat center;
+    background-size: 100%;
+    height: 600px;
+}
 #nav-logo-container{
     background: rgba(35, 33, 38, .9);
     width: 100%;
@@ -65,7 +65,7 @@ header a{
     float: right;
 }
 
-.nav-menu li:hover {
+.nav-menu a:hover {
     color: #BF7330;
 }
 
@@ -81,6 +81,9 @@ header a{
     padding: 10px;
 }
 
+.nav-logo-container-other-pages {
+    display: none;
+}
 /**/
 .circle-container {
     height: 300px;
