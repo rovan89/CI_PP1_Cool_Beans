@@ -20,17 +20,10 @@ body{
     font-family: 'Caveat', cursive;
  }
  
-header{
-    background: #BF7330;
-    height: 80px;
-    width: 100%;
-    overflow: hidden;
+/* header */
+ header {
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-    border-bottom: 2px solid #232126;
-}
-
+ }
 header a{
     color: inherit;
 }
@@ -44,6 +37,23 @@ header a{
     text-shadow: 1px 2px 0 #BF7330;
 }
 
+/* logo & navigation bar*/
+
+.logo {
+    float:left;
+    font-size: 150%;
+    background: blue;
+   
+}
+
+nav {
+    
+}
+.nav-menu li{
+    float: right;
+    background: red;
+}
+/**/
 .circle-container {
     height: 300px;
     flex: 0 0 45vh;
@@ -61,46 +71,18 @@ header a{
     border: 4px solid #BF7330;
     border-radius: 10px;
 }
-/* logo */
 
-.logo {
-    padding-left: 25px;
-    color: white;
-    font-size: 40px;
-}
-/* navigation links */
 
-.nav-menu {
-    float: right;
-    text-transform: uppercase;
-    color: white;
-    
-}
-
-.nav-menu li {
-    list-style-type: none;
-    margin-right: 25px; 
-    display: inline;
-    text-align: center;
-    font-size: 30px;
-}
-
-.nav-menu li:hover {
-    color: #232126;
-}
 
 .hero-image {
     height: 400px;
     width: 100%;
     background-size: cover;
-    border: 2px solid #232126;
 }
 
 /* home page */
 
-#hero-image-home-page {
-    background: url("../css/images/pexels-photo.jpg");
-}
+
 .statement-container{
     height: 400px;
     display: flex;
@@ -328,7 +310,7 @@ table tr {
     color: #BF7330;
 }
 /* location */
-
+/*
 #google-map-square-container {
     height: 300px;
     width: 300px;
@@ -475,10 +457,7 @@ input, #email, textarea, label {
         flex-wrap: wrap;
     }
 
-    .nav-menu {
-        width: 100vw; 
-        text-align: center;
-    }
+
 
     .nav-menu li {
         width: 100%;
