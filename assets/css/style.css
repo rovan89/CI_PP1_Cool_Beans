@@ -130,17 +130,6 @@ header a{
     box-shadow: 0 3px 10px rgb(0 0 0 / 1); 
 }
 
-.video-container {
-    height: 300px;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    border: 4px solid #BF7330;
-    border-radius: 10px;
-}
-
-
-
 .hero-image {
     height: 400px;
     width: 100%;
@@ -306,7 +295,7 @@ footer {
     box-shadow: 0 3px 10px rgb(0 0 0 / 1); 
     
 }
-#food-menu-heading
+
 /* menu table*/
 
 #table-container {
@@ -315,8 +304,19 @@ footer {
     height: 600px;
     display: flex;
     justify-content: space-around;
-    align-items: center;
-    
+    align-items: center;   
+}
+
+#table-container h2 {
+    color: white;
+    width: 350px;
+
+    background: rgba(35, 33, 38, .8);
+    box-shadow: 0 3px 10px rgb(0 0 0 / 1);
+    text-shadow: 2px 2px  2px #232126;
+
+    border: 1px solid #BF7330;
+    border-radius: 20px;
 }
 
 #table-container th {
@@ -329,6 +329,7 @@ table {
     background: rgba(35, 33, 38, .8);
     width: 45%;
     height: 300px;
+    margin: 25px;
     text-align: center;
     border: 1px solid #BF7330;
     border-radius: 10px;
@@ -339,13 +340,17 @@ table {
 thead {
     text-align: center;
 }
+/* Menu ethical section */
 
-table tr {
-    width: 50%;
+#ethical-section-menu-page {
+    height: 600px;
 }
 
-
-
+.video-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
 /* our mission */
 
 #our-mission-image {
