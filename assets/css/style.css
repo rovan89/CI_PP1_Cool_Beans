@@ -146,6 +146,10 @@ header a{
     
 }
 
+#what-were-about-container {
+    padding-top: 50px;
+    align-items: center;
+}
 .statement-image-container {
     height: 300px;
     width: 300px;
@@ -250,6 +254,7 @@ footer {
 
 .footer-address h3 {
     padding-bottom: 3%;
+    font-size: 200%;
 }
 
 
