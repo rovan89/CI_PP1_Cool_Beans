@@ -22,8 +22,9 @@ body{
  
 /* header */
  header {
-    display: flex;
-    justify-content: space-between;
+    background: url(../css/images/pexels-chevanon-photography-302894.jpg) no-repeat center;
+    background-size: 100%;
+    height: 600px;
  }
 header a{
     color: inherit;
@@ -40,11 +41,22 @@ header a{
 
 /* logo & navigation bar*/
 
+#nav-logo-container{
+    background: rgba(35, 33, 38, .9);
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 .logo {
+    color: white;
     float:left;
     font-size: 300%;
-    background: blue;
-   
+    margin-left: 30px;
+    text-shadow: 1px 3px  1px #232126;
+    border: 2px;
+    border-bottom: #BF7330;
+    
 }
 
 .nav-menu {
@@ -52,11 +64,23 @@ header a{
     letter-spacing: 2px;
     float: right;
 }
+
+.nav-menu li:hover {
+    color: #BF7330;
+}
+
 .nav-menu li{
+    color: white;
     float: left;
     margin-right: 30px;
-    background: red;
+    border: 2px solid #BF7330;
+    border-radius: 25px;
 }
+
+.nav-menu li a {
+    padding: 10px;
+}
+
 /**/
 .circle-container {
     height: 300px;
