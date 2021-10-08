@@ -23,6 +23,7 @@ body{
 /* header */
  header {
     display: flex;
+    justify-content: space-between;
  }
 header a{
     color: inherit;
@@ -41,16 +42,19 @@ header a{
 
 .logo {
     float:left;
-    font-size: 150%;
+    font-size: 300%;
     background: blue;
    
 }
 
-nav {
-    
+.nav-menu {
+    font-size: 120;
+    letter-spacing: 2px;
+    float: right;
 }
 .nav-menu li{
-    float: right;
+    float: left;
+    margin-right: 30px;
     background: red;
 }
 /**/
