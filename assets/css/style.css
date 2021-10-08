@@ -226,16 +226,15 @@ header a{
     position: relative;
 }*/
 
-.opening-hours-map-container, .google-map {
+ .google-map {
     overflow: hidden;
-    border-radius: 50%;
     text-align: center;
     
 }
 /* footer */
 
 footer {
-    height: 250px;
+    height: 300px;
     width: 100%;
 
     display: flex;
@@ -382,25 +381,6 @@ thead {
 #statement-text-dark-background a:hover {
     color: #BF7330;
 }
-/* location */
-/*
-#google-map-square-container {
-    height: 300px;
-    width: 300px;
-    border-radius: 10px;
-    
-}
-
-#google-map-square {
-    height:100%;
-    width: 100%;
-    border-radius: 10px;
-}
-
-#hero-image-location-page {
-    background: url("../css/images/pexels-tim-douglas-6205759.jpg")  center no-repeat;
-    background-color: #232126;
-}
 
 /* gallery */
 
@@ -536,16 +516,14 @@ input, #email, textarea, label {
         flex-wrap: wrap;
     }
 
-
-
     .nav-menu li {
-        width: 100%;
         font-size: 150%;
         
     }
     footer {
-        height: 400px;
+        height: 500px;
         flex-wrap: wrap-reverse;
+        margin-bottom: 50px;
     }
 }
 
