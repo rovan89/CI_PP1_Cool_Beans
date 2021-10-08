@@ -343,13 +343,23 @@ thead {
 /* Menu ethical section */
 
 #ethical-section-menu-page {
-    height: 600px;
+    height: 500px;
 }
 
 .video-container {
     display: flex;
+    padding-left: 50px;
     justify-content: space-around;
     align-items: center;
+    
+}
+
+#text-section-menu-page {
+    border-top: 2px solid #232126;
+    border-bottom: 2px solid #232126;
+
+    padding: 10px 200px 10px 200px;
+    line-height: 1.5;
 }
 /* our mission */
 
@@ -398,6 +408,11 @@ thead {
 }
 
 /* gallery */
+
+#gallery-statement-container{
+    background: #232126;
+    clip-path: polygon(0 0, 100% 0, 100% 40%, 0 100%);
+}
 
 .gallery-image-container {
     margin-left: 2%;
