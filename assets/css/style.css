@@ -123,7 +123,7 @@ header a{
 /**/
 .circle-container {
     height: 300px;
-    flex: 0 0 45vh;
+    width: 300px;
     border-radius: 50%;
     border: 4px solid #BF7330;
     background-size: 150%;   
@@ -143,13 +143,13 @@ header a{
     height: 400px;
     display: flex;
     justify-content: space-around;
-    align-items: center;
+    
 }
 
 .statement-image-container {
     height: 300px;
     width: 300px;
-
+    display: fixed;
     border-radius: 50%;
     border: 4px solid #BF7330;  
 
@@ -361,16 +361,6 @@ thead {
     padding: 10px 200px 10px 200px;
     line-height: 1.5;
 }
-/* our mission */
-
-#our-mission-image {
-    background: url('../css/images/pexels-pixabay-162994.jpg') no-repeat center;
-    background-size: 100%;
-}
-
-#our-mission-video-statemant-div {
-    background-color: #232126;
-}
 
 .video-container {
     background-color: white;
@@ -410,17 +400,18 @@ thead {
 /* gallery */
 
 #gallery-statement-container{
-    background: #232126;
-    clip-path: polygon(0 0, 100% 0, 100% 40%, 0 100%);
+    height: 400px;
+    background-image: url(../css/images/pexels-david-bartus-963278.jpg);
+    clip-path: polygon(0 0, 100% 0, 100% 50%, 0 100%);
 }
 
 .gallery-image-container {
-    margin-left: 2%;
-    margin-right: 2%;
+    margin: 2% 0 50px 0;
+    
+
+    float: left;
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
 }
 
 .gallery-images {
@@ -433,7 +424,10 @@ thead {
 }
 
 #gallery-page-circle-image {
+    height: 400px;
+    width: 400px;
     background: url("../css/images/pexels-tim-douglas-6205461.jpg") center;
+    margin: 25px;
 }
 
 /* contact page */
@@ -448,14 +442,11 @@ thead {
 }
 
 .sub-heading-3 {
-    color: #BF7330;
-    font-size: 200%;
+    color: #232126;
+    font-size: 300%;
     text-align: center;
     text-transform: uppercase;
     text-shadow: 1px 1px 0 #232126;
-    padding-top: 20px;
-    padding-bottom: 10px;
-    border-bottom: 2px solid #232126;
 }
 .inner-form-container {
     background-color: #232126;
