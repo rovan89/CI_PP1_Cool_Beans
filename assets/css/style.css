@@ -84,6 +84,19 @@ header a{
 .nav-logo-container-other-pages {
     display: none;
 }
+
+#cover-text-home-page-hero-image {
+    color: white;
+    margin-top: 15%;
+    margin-left: 10%;
+    float: left;
+
+    padding: 10px 10px 10px 5px;
+    border-radius: 5px;
+    background: rgba(191, 115, 48, .6);
+
+    font-size: 200%;
+}
 /**/
 .circle-container {
     height: 300px;
