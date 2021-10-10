@@ -101,5 +101,12 @@
         The text section includes the Cool Beans view and also contains a link for the user to discover more on this subject.
     </li>
 </ul>
+<img src="doc/images_readme/fairtrade_section.PNG" alt="screenshot of videa and text">
+<h3>Hero image gallery page</h3>
+<ul>
+    <li>
+        The hero image gives the user a scene of the who the owners are.
+    </li>
+</ul>
 
 
