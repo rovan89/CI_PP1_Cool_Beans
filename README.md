@@ -20,7 +20,19 @@
 
 <h2>Features</h2>
 
-<h3>Nagigation Bar</h3>
-<p></p>
+<h3>Navigation Bar</h3>
+<p>
+    <ul>
+        <li>
+        The navigation bar allows the user the easily navigate their way through the website instinctively.
+        </li>
+        <li>
+        The navigation bar consists of four different links to pages and the logo which is a link for the home page. These pages are Home, Menu, Gallery and Contact.
+        </li>
+        <li>
+        This is a responsive design which changes from standard desktop navigation links that are arranged across the top of the page, to the dropdown menu for smaller screens such as mobile and tablet.
+        </li>
+    </ul>
+</p>
 <img src="doc/screenshots/navigationbar_image_cool_beans.PNG">
-/workspace/Cool_Beans/doc/screenshots/navigationbar_image_cool_beans.PNG
+
