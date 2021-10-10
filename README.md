@@ -49,6 +49,15 @@
         This is a short statement letting the user know the company's intentions from a fairtrade standpoint.
     </li>
 </ul>
-<img scr="doc/images_readme/home_page_statement.PNG" alt="Screenshot of two containers one with an image off coffe being pured and the other is a filled with text describing the viewpoint of the Cafe">
+<img src="doc/images_readme/home_page_statement.PNG" alt="Screenshot of two containers one with an image off coffe being pured and the other is a filled with text describing the viewpoint of the Cafe">
+<h3>Opening Hours and Map</h3>
+<ul>
+    <li>
+        This feature gives the user information on the opening hours and the location of the gallery.
+    </li>
+    <li>
+        The map is an interactive google map and can be used fully on the site or clicked on to enlarge the map in a different tab. 
+    </li>
+</ul>
 
 
