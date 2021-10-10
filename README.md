@@ -109,4 +109,13 @@
     </li>
 </ul>
 <img src="doc/images_readme/gallery_page_hero_image.PNG" alt="main image of the owners">
+<h3>Newsletter Subscription</h3>
+<ul>
+    <li>
+        The newsletter provides the user with information of offers, exclusives and the goings on of the cafe.
+    </li>
+    <li>
+        This section provides the site owner with a new direct contact with the user
+    </li>
+</ul>
 
