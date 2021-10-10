@@ -59,5 +59,6 @@
         The map is an interactive google map and can be used fully on the site or clicked on to enlarge the map in a different tab. 
     </li>
 </ul>
+<img src="doc/images_readme/homepage_opening_hours_and_map_container.PNG" alt="screenshot of opening hours and map container">
 
 
