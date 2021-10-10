@@ -49,5 +49,6 @@
         This is a short statement letting the user know the company's intentions from a fairtrade standpoint.
     </li>
 </ul>
+<img scr="doc/images_readme/home_page_statement.PNG" alt="Screenshot of two containers one with an image off coffe being pured and the other is a filled with text describing the viewpoint of the Cafe">
 
 
