@@ -40,7 +40,7 @@ header a{
 #home-page-nav-logo-container {
     background: url(../css/images/pexels-chevanon-photography-302894.jpg) no-repeat center;
     background-size: 100%;
-    height: 600px;
+    height: 580px;
 }
 #nav-logo-container{
     background: rgba(35, 33, 38, .9);
@@ -147,7 +147,7 @@ header a{
 }
 
 #what-were-about-container {
-    padding-top: 50px;
+    
     align-items: center;
 }
 .statement-image-container {
