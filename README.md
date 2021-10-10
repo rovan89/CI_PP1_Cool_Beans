@@ -76,5 +76,14 @@
     </li>
 </ul>
 <img src="doc/images_readme/cool-beans-website-footer.PNG" alt="screenshot of site footer">
+<h3>Menu</h3>
+<ul>
+    <li>
+        The menu provides the user with the information of the items available for sale.
+    </li>
+    <li>
+        This is also useful to the user for up to date pricing of the items.
+    </li>
+</ul>
 
 
