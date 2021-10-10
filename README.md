@@ -43,5 +43,11 @@
     </li>
 </ul>
 <img src="doc/images_readme/home_page_hero_image.PNG" alt="">
+<h3>Homepage Statement</h3>
+<ul>
+    <li>
+        This is a short statement letting the user know the company's intentions from a fairtrade standpoint.
+    </li>
+</ul>
 
 
