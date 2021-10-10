@@ -86,5 +86,20 @@
     </li>
 </ul>
 <img src="doc/images_readme/cafe_menu.PNG" alt="screenshot of menu">
+<h3>Ethically Sourced</h3>
+<ul>
+    <li>
+        This is to strengthen the Cool Beans ethos in the user's mind.
+    </li>
+    <li>
+        This section provides the user with information on fairtrade
+    </li>
+    <li>
+        The video is a short case study on coffee farmers.
+    </li>
+    <li>
+        The text section includes the Cool Beans view and also contains a link for the user to discover more on this subject.
+    </li>
+</ul>
 
 
