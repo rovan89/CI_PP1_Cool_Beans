@@ -60,5 +60,20 @@
     </li>
 </ul>
 <img src="doc/images_readme/homepage_opening_hours_and_map_container.PNG" alt="screenshot of opening hours and map container">
+<h3>Footer</h3>
+<ul>
+    <li>
+        The information and features of the footer are seen across every page of the website.
+    </li>
+    <li>
+        For the user's information, the address of the Cafe is on the left of the footer.
+    </li>
+    <li>
+        On the right of the footer the user can find four social media icons which link to the cafe's social media pages, this is great for exposure to the user.
+    </li>
+    <li>
+        The social media icons change colour and increase in size when the user hovers over the icons.
+    </li>
+</ul>
 
 
