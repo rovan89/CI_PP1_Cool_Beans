@@ -516,10 +516,6 @@ input, #email, textarea, label {
         flex-wrap: wrap;
     }
 
-    .nav-menu li {
-        font-size: 150%;
-        
-    }
     footer {
         height: 500px;
         flex-wrap: wrap-reverse;

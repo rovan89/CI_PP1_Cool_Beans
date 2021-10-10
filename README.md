@@ -21,18 +21,26 @@
 <h2>Features</h2>
 
 <h3>Navigation Bar</h3>
-<p>
-    <ul>
-        <li>
+<ul>
+    <li>
         The navigation bar allows the user the easily navigate their way through the website instinctively.
-        </li>
-        <li>
+    </li>
+    <li>
         The navigation bar consists of four different links to pages and the logo which is a link for the home page. These pages are Home, Menu, Gallery and Contact.
-        </li>
-        <li>
+    </li>
+    <li>
         This is a responsive design which changes from standard desktop navigation links that are arranged across the top of the page, to the dropdown menu for smaller screens such as mobile and tablet.
-        </li>
-    </ul>
-</p>
-<img src="doc/screenshots/navigationbar_image_cool_beans.PNG">
+    </li>
+</ul>
+<img src="doc/images_readme/navigationbar_image_cool_beans.PNG">
+<h3>Landing Page Image and Subscribe Button</h3>
+<ul>
+    <li>
+        The landing page image is an upclose photograph of coffee being poured through a portafilter into a cup which gives a clear indication of business.
+    </li>
+    <li>
+        An overlay container with text and a button to instantly prompt the user to subscribe to the newsletter.
+    </li>
+</ul>
+
 
