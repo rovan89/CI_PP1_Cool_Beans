@@ -85,5 +85,6 @@
         This is also useful to the user for up to date pricing of the items.
     </li>
 </ul>
+<img src="doc/images_readme/cafe_menu.PNG" alt="screenshot of menu">
 
 
