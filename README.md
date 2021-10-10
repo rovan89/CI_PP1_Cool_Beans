@@ -75,5 +75,6 @@
         The social media icons change colour and increase in size when the user hovers over the icons.
     </li>
 </ul>
+<img src="doc/images_readme/cool-beans-website-footer.PNG" alt="screenshot of site footer">
 
 
