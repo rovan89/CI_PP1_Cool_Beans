@@ -121,6 +121,7 @@
         This allows the owner to put forward their best work and direct the user to the main points of focus for the business. 
     </li>
 </ul>
+<img src="doc/images_readme/gallery_screenshot.PNG" alt="screenshot of subscription subscription form">
 <h3>Newsletter Subscription</h3>
 <ul>
     <li>
