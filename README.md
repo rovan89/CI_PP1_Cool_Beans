@@ -109,13 +109,26 @@
     </li>
 </ul>
 <img src="doc/images_readme/gallery_page_hero_image.PNG" alt="main image of the owners">
+<h3>Gallery</h3>
+<ul>
+    <li>
+        Having a gallery allows the user to envision themselves in the restaurant.
+    </li>
+     <li>
+        The gallery is useful to users to show what they can expect from the cafe.
+    </li>
+     <li>
+        This allows the owner to put forward their best work and direct the user to the main points of focus for the business. 
+    </li>
+</ul>
 <h3>Newsletter Subscription</h3>
 <ul>
     <li>
         The newsletter provides the user with information of offers, exclusives and the goings on of the cafe.
     </li>
     <li>
-        This section provides the site owner with a new direct contact with the user
+        This section is extremely valuable to the site owner as it creates a new direct line of contact with the user.
     </li>
 </ul>
+<img src="doc/images_readme/subscription_form.PNG" alt="screenshot of subscription form">
 
