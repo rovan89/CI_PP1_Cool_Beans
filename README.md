@@ -133,3 +133,28 @@
 </ul>
 <img src="doc/images_readme/subscription_form.PNG" alt="screenshot of subscription form">
 
+<h2>Design</h2>
+
+<h3>Fonts</h3>
+<ul>
+    <li>
+        Raleway
+    </li>
+    <li>
+        Caveat
+    </li>
+</ul>
+
+<h3>Colour Scheme</h3>
+<p>
+To keep in theme, the colour scheme is based on cafe photos provided, such as a light brown extracted from an image of coffee, white taken from the colour of the cups and the dark grey chosen from a number of items in the cafe revolving around this color. 
+</p>
+<img src="doc/images_readme/colour_wheel.PNG" alt="screenshot of colour wheel and image used to create colour scheme">
+
+<h3>Page Layouts</h3>
+<h4>Home Page</h4>
+<p>
+    The home page is designed to give the user a clear understanding of what this business is, where it is located and when the user can visit the cafe. It is intuitive and easy to navigate. 
+</p>
+
+
