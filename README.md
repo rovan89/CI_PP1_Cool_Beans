@@ -105,7 +105,7 @@
 <h3>Hero image gallery page</h3>
 <ul>
     <li>
-        The hero image gives the user a scene of the who the owners are.
+        The hero image gives the user a sense of the who the owners are.
     </li>
 </ul>
 <img src="doc/images_readme/gallery_page_hero_image.PNG" alt="main image of the owners">
