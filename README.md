@@ -156,5 +156,10 @@ To keep in theme, the colour scheme is based on cafe photos provided, such as a 
 <p>
     The home page is designed to give the user a clear understanding of what this business is, where it is located and when the user can visit the cafe. It is intuitive and easy to navigate. 
 </p>
+<img src="doc/images_readme/screenshot_of_homepage.png" alt="screenshot of homepage">
+<h4>Menu Page</h4>
+<p>
+   The design of the menu page was to keep it simple and in a table format. I used an image of black and white bricks as the background and had the menu in a table with an overlay effect. It is clear, straightforward and easy to read. Below the menu there is a section on fairtrade, this consists of a video on fair trade coffee faring and a block of text to back it up.
+</p>
 
 

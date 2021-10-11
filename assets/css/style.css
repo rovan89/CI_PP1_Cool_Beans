@@ -349,6 +349,7 @@ thead {
 
 #ethical-section-menu-page {
     height: 500px;
+    display: flex;
 }
 
 .video-container {
@@ -366,7 +367,8 @@ thead {
     margin-bottom: 5%;
     padding: 10px 10% 10px 10%;
     line-height: 1.5;
-    text-align: center
+    text-align: center;
+    justify-content:center;
 }
 
 .video-container {
