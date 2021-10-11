@@ -18,6 +18,16 @@
 </ol>
 <h2>Project Goals</h2>
 
+<h3>Page Layouts</h3>
+<h4>Home Page</h4>
+<p>
+    The home page is designed to give the user a clear understanding of what this business is, where it is located and when the user can visit the cafe. It is intuitive and easy to navigate. 
+</p>
+<h4>Menu Page</h4>
+<p>
+   The design of the menu page was to keep it simple and in a table format. I used an image of black and white bricks as the background and had the menu in a table with an overlay effect. It is clear, straightforward and easy to read. Below the menu there is a section on fairtrade, this consists of a video on fair trade coffee faring and a block of text to back it up.
+</p>
+<h4>Gallery</h4>
 <h2>Features</h2>
 
 <h3>Navigation Bar</h3>
@@ -151,15 +161,18 @@ To keep in theme, the colour scheme is based on cafe photos provided, such as a 
 </p>
 <img src="doc/images_readme/colour_wheel.PNG" alt="screenshot of colour wheel and image used to create colour scheme">
 
-<h3>Page Layouts</h3>
-<h4>Home Page</h4>
-<p>
-    The home page is designed to give the user a clear understanding of what this business is, where it is located and when the user can visit the cafe. It is intuitive and easy to navigate. 
-</p>
-<img src="doc/images_readme/screenshot_of_homepage.png" alt="screenshot of homepage">
-<h4>Menu Page</h4>
-<p>
-   The design of the menu page was to keep it simple and in a table format. I used an image of black and white bricks as the background and had the menu in a table with an overlay effect. It is clear, straightforward and easy to read. Below the menu there is a section on fairtrade, this consists of a video on fair trade coffee faring and a block of text to back it up.
-</p>
+<h2>Wire Frames</h2>
+<h3>Home Page</h3>
+<img src="doc/images_readme/wireframes_homepage.png" alt="image of homepage wire frame">
+
+<h3>Menu Page</h3>
+<img src="doc/images_readme/wireframes_menu_page.png" alt="image of menu wire frame">
+
+<h3>Gallery Page</h3>
+<img src="doc/images_readme/wireframes_gallery_page.png">
+
+<h3>Newsletter Page</h3>
+<img src="doc/images_readme/wireframes_newsletter_page.png">
+
 
 
