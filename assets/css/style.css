@@ -590,7 +590,6 @@ input, #email, textarea, label {
 
     .statement-container, .opening-hours-container {
         flex-wrap: wrap;
-        margin: 3%;
         height: 800px;
     }
 
@@ -644,10 +643,16 @@ input, #email, textarea, label {
         /*statement container*/
         .statement-container {
             height: 900px;
+            margin: 0%;
         }
 
         .statement-text {
             height: 450px;
+        }
+        /* Statement image*/
+        .statement-image-container {
+            height: 250px;
+            width: 250px;
         }
 
         /* opening hours container*/
