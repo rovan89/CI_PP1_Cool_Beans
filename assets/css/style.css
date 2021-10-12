@@ -625,6 +625,16 @@ input, #email, textarea, label {
         height: 600px;
     }
 
+    /* Logo */
+
+    .logo {
+        font-size: 150%;
+    }
+    /* Home page hero image */
+    #home-page-nav-logo-container {
+        position: relative;
+        height: 200px;
+     }
         /* Subcribe overlay home page */
         #cover-text-home-page-hero-image {
             display: none;
@@ -635,6 +645,7 @@ input, #email, textarea, label {
             height: 900px;
         }
 
+        /* opening hours container*/
         .statement-text {
             height: 450px;
         }
