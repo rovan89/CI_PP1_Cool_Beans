@@ -87,7 +87,10 @@ header a{
     color: white;
 }
 
-
+.navbar-light {
+    color: white;
+    
+}
 
 .nav-logo-container-other-pages {
     display: none;
@@ -542,12 +545,6 @@ input, #email, textarea, label {
         color: white;
         float: right;
         margin-right: 0;
-        text-align: center;
-        
-    }
-    .nav-menu a:hover {
-        color: #BF7330;
-        
     }
     
 }
@@ -571,6 +568,9 @@ input, #email, textarea, label {
         height: 20vh;
         padding: .5em;
     }
+
+    /* Home page hero image */
+  
 /* For smaller screen sizes from 640px and down*/
 @media screen and (max-width: 640px){
     .statement-container, .opening-hours-container {
