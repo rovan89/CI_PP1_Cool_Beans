@@ -624,5 +624,19 @@ input, #email, textarea, label {
     footer {
         height: 600px;
     }
+
+        /* Subcribe overlay home page */
+        #cover-text-home-page-hero-image {
+            display: none;
+        }
+
+        /*statement container*/
+        .statement-container {
+            height: 900px;
+        }
+
+        .statement-text {
+            height: 450px;
+        }
 }
 }
