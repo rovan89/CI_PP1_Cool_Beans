@@ -630,6 +630,7 @@ input, #email, textarea, label {
     .logo {
         font-size: 150%;
     }
+
     /* Home page hero image */
     #home-page-nav-logo-container {
         position: relative;
@@ -645,9 +646,16 @@ input, #email, textarea, label {
             height: 900px;
         }
 
-        /* opening hours container*/
         .statement-text {
             height: 450px;
+        }
+
+        /* opening hours container*/
+        .opening-hours-text-container h2{
+            font-size: 100%;
+        }
+        .opening-hours-text-container {
+            height: 350px;
         }
 }
 }
