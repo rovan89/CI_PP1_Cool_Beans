@@ -83,6 +83,12 @@ header a{
     padding: 10px;
 }
 
+.nav-link{
+    color: white;
+}
+
+
+
 .nav-logo-container-other-pages {
     display: none;
 }
@@ -526,7 +532,25 @@ input, #email, textarea, label {
         margin-bottom: 50px;
     }
 }
+/* For smaller screen sizes from 991px and down*/
+@media screen and (max-width: 991px){
+    .navbar-collapse {
+        width: 10px;
+    }
 
+    .nav-menu li{
+        color: white;
+        float: right;
+        margin-right: 0;
+        text-align: center;
+        
+    }
+    .nav-menu a:hover {
+        color: #BF7330;
+        
+    }
+    
+}
 /* For smaller screen sizes from 840px and down*/
 @media screen and (max-width: 840px){
 
