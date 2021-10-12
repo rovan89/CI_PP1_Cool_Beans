@@ -87,10 +87,7 @@ header a{
     color: white;
 }
 
-.navbar-light {
-    color: white;
-    
-}
+
 
 .nav-logo-container-other-pages {
     display: none;
@@ -548,8 +545,8 @@ input, #email, textarea, label {
     }
     
 }
-/* For smaller screen sizes from 840px and down*/
-@media screen and (max-width: 840px){
+/* For smaller screen sizes from 860px and down*/
+@media screen and (max-width: 860px){
 
     .statement-container {
         height: 500px;
@@ -570,9 +567,27 @@ input, #email, textarea, label {
     }
 
     /* Home page hero image */
-  
+    #home-page-nav-logo-container {
+       position: relative;
+       height: 500px;
+    }
 /* For smaller screen sizes from 640px and down*/
 @media screen and (max-width: 640px){
+
+    /* Subcribe overlay home page */
+    #cover-text-home-page-hero-image {
+        margin-top: 2px;
+        margin-left: 5%; 
+        padding: 5px 25px 12.5px 25px;
+    }
+
+
+    /* Home page hero image */
+    #home-page-nav-logo-container {
+        position: relative;
+        height: 300px;
+     }
+
     .statement-container, .opening-hours-container {
         flex-wrap: wrap;
         margin: 3%;
@@ -600,6 +615,7 @@ input, #email, textarea, label {
     .gallery-images {
         height: 15vh;
     }
+    
 }
 
 /* For smaller screen sizes from 440px and down*/
