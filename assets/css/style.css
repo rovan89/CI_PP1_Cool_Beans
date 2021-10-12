@@ -657,5 +657,21 @@ input, #email, textarea, label {
         .opening-hours-text-container {
             height: 350px;
         }
+
+        /* Google Map */
+
+        .google-map {
+            width: 300px;
+            height: 200px;
+        }
+
+        /* Footer */
+        footer {
+            height: 300px;
+        }
+        .footer-social-media-icons {
+            width: 100%;
+            margin-top: 40px;
+        }
 }
 }
