@@ -799,6 +799,7 @@ input, #email, textarea, label {
         
         form {
             height: 320px;
+            font-size: 15px;
         }
 
         #form-statement-container {
