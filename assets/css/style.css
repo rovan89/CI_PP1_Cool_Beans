@@ -686,5 +686,9 @@ input, #email, textarea, label {
         #ethical-section-menu-page {
             height: 1000px;
         }
+
+        #table-container {
+            height: 1000px;
+        }
 }
 }
