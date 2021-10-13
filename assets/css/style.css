@@ -690,5 +690,14 @@ input, #email, textarea, label {
         #table-container {
             height: 1000px;
         }
+
+        table {
+            margin: 5px;
+        }
+
+        #fairtrade-video {
+            width: 300px;
+            height: 200px;
+        }
 }
 }
