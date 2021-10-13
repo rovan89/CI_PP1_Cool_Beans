@@ -509,7 +509,7 @@ textarea {
 input, #email, textarea, label {
     
     justify-content: center;
-    width: calc(100% - 200px);
+    width: 100%;
     padding: 1%;
 }
 
@@ -729,6 +729,10 @@ input, #email, textarea, label {
 
         #hero-image-contact-page {
             display: none;
+        }
+
+        input, #email, textarea, label {
+            width: 100%;
         }
 }
 }
