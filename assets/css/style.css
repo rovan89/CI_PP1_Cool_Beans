@@ -678,5 +678,13 @@ input, #email, textarea, label {
             width: 100%;
             margin-top: 40px;
         }
+
+        /* Menu Page */
+
+        /* ethical section */
+
+        #ethical-section-menu-page {
+            height: 1000px;
+        }
 }
 }
