@@ -531,6 +531,8 @@ input, #email, textarea, label {
         flex-wrap: wrap-reverse;
         margin-bottom: 50px;
     }
+
+
 }
 /* For smaller screen sizes from 991px and down*/
 @media screen and (max-width: 991px){
@@ -564,6 +566,17 @@ input, #email, textarea, label {
     .gallery-images {
         height: 20vh;
         padding: .5em;
+    }
+    /* Newsletter Page */
+
+    /* form */
+    .inner-form-container {
+        width: 90%;
+        font-size: 30px;
+    }
+
+    #form-statement-container {
+        height: 600px;
     }
 
     /* Home page hero image */
