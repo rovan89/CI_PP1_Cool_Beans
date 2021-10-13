@@ -688,7 +688,7 @@ input, #email, textarea, label {
         }
 
         #table-container {
-            height: 1000px;
+            height: 900px;
         }
 
         table {
@@ -702,6 +702,17 @@ input, #email, textarea, label {
         #fairtrade-video {
             width: 300px;
             height: 200px;
+        }
+
+        /* Gallery Page */
+
+        /* Gallery hero Image */
+        #gallery-page-circle-image {
+            height: 250px;
+        }
+
+        #gallery-page-circle-image {
+            background-size: 170%;
         }
 }
 }
