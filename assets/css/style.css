@@ -731,8 +731,25 @@ input, #email, textarea, label {
             display: none;
         }
 
+        /* Form */
+
         input, #email, textarea, label {
             width: 100%;
+        }
+
+        .full-form-container {
+            height: 550px;
+        }
+        .inner-form-container {
+            height: 350px;
+        }
+        
+        form {
+            height: 320px;
+        }
+
+        #form-statement-container {
+            height: 100px;
         }
 }
 }
