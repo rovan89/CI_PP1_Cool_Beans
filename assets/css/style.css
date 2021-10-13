@@ -714,5 +714,11 @@ input, #email, textarea, label {
         #gallery-page-circle-image {
             background-size: 170%;
         }
+
+        /* Gallery images */
+
+        .gallery-images {
+            height: 200vh;
+        }
 }
 }
