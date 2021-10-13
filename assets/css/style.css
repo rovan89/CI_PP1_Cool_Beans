@@ -718,7 +718,13 @@ input, #email, textarea, label {
         /* Gallery images */
 
         .gallery-images {
-            height: 200vh;
+            height: 35vh;
+        }
+
+        /* Newsletter Page */
+
+        #sign_up_heading {
+            display: none;
         }
 }
 }
