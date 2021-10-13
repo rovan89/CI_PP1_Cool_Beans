@@ -526,6 +526,10 @@ input, #email, textarea, label {
         flex-wrap: wrap;
     }
 
+    .opening-hours-text-container {
+        width: 90%;
+    }
+
     /* Footer */
     footer {
         height: 500px;
@@ -555,6 +559,13 @@ input, #email, textarea, label {
         color: white;
         float: right;
         margin-right: 0;
+    }
+
+    /* What we're all about section */
+
+    .statement-text {
+        height: 300px;
+        width: 500px;
     }
     
 }
