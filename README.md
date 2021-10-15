@@ -159,7 +159,7 @@ To keep in theme, the colour scheme is based on cafe photos provided, such as a 
 W3C Markup Validation was used to validate the HTML for the Cool Beans website. No errors or warnings
 
 #### Home
-![screenshot of homepage html validation](doc/images_readme/validation_screenshots)
+![screenshot of homepage html validation](doc/images_readme/validation_screenshots/html_validation_homepage.PNG)
 
 #### Menu 
 ![screenshot of menu page html validation](doc/images_readme/validation_screenshots/html_validation_menu_page.PNG)
@@ -171,7 +171,6 @@ W3C Markup Validation was used to validate the HTML for the Cool Beans website. 
 ![screenshot of newsletter page html validation](doc/images_readme/validation_screenshots/html_validation_newsletter_page.PNG)
 
 ### CSS 
-![screenshot of newsletter page html validation](doc/images_readme/validation_screenshots/html_validation_newsletter_page.PNG)
 
 #### Home
 ![screenshot of home page css validation](doc/images_readme/validation_screenshots/css_validation_index_page.PNG)
