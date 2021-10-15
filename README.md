@@ -1,8 +1,9 @@
 # Cool Beans
 (Developer: Devan Hayes)
 ![Image of responsive design][image]
+
 [Live website](https://rovan89.github.io/CI_PP1_Cool_Beans/)
-live
+
 ## Table of Contents
 1. Page Layouts
     1. Home Page
