@@ -22,6 +22,7 @@ The images in the gallery page are selected to showcase the options on the menu,
 
 ### Newsletter
 The intention of the newsletter is to capture customers details and develop a direct line of contact. This enables the owner to target this specific demographic and generate more revenue. 
+
 ## Features
 
 ### Navigation Bar
@@ -139,5 +140,21 @@ To keep in theme, the colour scheme is based on cafe photos provided, such as a 
 ### Newsletter Page
 ![image of newsletter wireframe](doc/images_readme/wireframes_newsletter_page.png)
 
+## Technologies Used 
+* HTML 
+* CSS 
 
+### Frameworks and Tools
+* Balsamiq
+* Adobe Colour
+* Google Fonts
+* Github 
+* Gitpod
+* Fontawesome
+* Favicon 
 
+## Validation 
+W3C Markup Validation was used to validate the HTML for the Cool Beans website
+
+#### Home
+![screenshot of homepage html validation](doc/images_readme/validation_screenshots)
