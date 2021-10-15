@@ -158,3 +158,9 @@ W3C Markup Validation was used to validate the HTML for the Cool Beans website
 
 #### Home
 ![screenshot of homepage html validation](doc/images_readme/validation_screenshots)
+
+### Menu 
+![screenshot of menu page html validation](doc/images_readme/validation_screenshots/html_validation_menu_page.PNG)
+
+### Gallery
+![screenshot of gallery page html validation](doc/images_readme/validation_screenshots/html_validation_gallery_page.PNG)
