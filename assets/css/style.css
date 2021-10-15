@@ -369,6 +369,12 @@ thead {
     justify-content:center;
 }
 
+#text-section-menu-page a {
+    text-decoration: none;
+    color: red;
+    font-weight: 1000;
+}
+
 .video-container {
     background-color: white;
 }
