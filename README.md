@@ -1,7 +1,8 @@
-<h1>Cool Beans</h1>
-<p>Developer: Devan Hayes</p>
-<img alt="Image of responsive design">Image of responsive design</img>
-<h2>Table of Contents</h2>
+#Cool Beans
+(Developer: Devan Hayes)
+![Image of responsive design][image]
+
+##Table of Contents
 <ol>
     <li>
         <ol>
@@ -18,32 +19,28 @@
             <li></il>
         </ol>
 </ol>
-<h2>Project Goals</h2>
+##Project Goals
 
-<h3>Page Layouts</h3>
-<h4>Home Page</h4>
-<p>
-    The home page is designed to give the user a clear understanding of what this business is, where it is located and when the user can visit the cafe. It is intuitive and easy to navigate. 
-</p>
-<h4>Menu Page</h4>
-<p>
-   The design of the menu page was to keep it simple and in a table format. I used an image of black and white bricks as the background and had the menu in a table with an overlay effect. It is clear, straightforward and easy to read. Below the menu there is a section on fairtrade, this consists of a video on fair trade coffee faring and a block of text to back it up.
-</p>
-<h4>Gallery</h4>
-<h2>Features</h2>
+###Page Layouts
+####Home Page
 
-<h3>Navigation Bar</h3>
-<ul>
-    <li>
-        The navigation bar allows the user the easily navigate their way through the website instinctively.
-    </li>
-    <li>
-        The navigation bar consists of four different links to pages and the logo which is a link for the home page. These pages are Home, Menu, Gallery and Contact.
-    </li>
-    <li>
-        This is a responsive design which changes from standard desktop navigation links that are arranged across the top of the page, to the dropdown menu for smaller screens such as mobile and tablet.
-    </li>
-</ul>
+The home page is designed to give the user a clear understanding of what this business is, where it is located and when the user can visit the cafe. It is intuitive and easy to navigate. 
+
+####Menu Page
+
+The design of the menu page was to keep it simple and in a table format. I used an image of black and white bricks as the background and had the menu in a table with an overlay effect. It is clear, straightforward and easy to read. Below the menu there is a section on fairtrade, this consists of a video on fair trade coffee faring and a block of text to back it up.
+
+####Gallery
+##Features
+
+###Navigation Bar
+
+* The navigation bar allows the user the easily navigate their way through the website instinctively.
+* The navigation bar consists of four different links to pages and the logo which is a link for the home page. These pages are Home, Menu, Gallery and Contact.git  
+* This is a responsive design which changes from standard desktop navigation links that are arranged across the top of the page, to the dropdown menu for smaller screens such as mobile and tablet.
+
+![screenshot of Cool Beans website navigation bar][doc/images_readme/colour_wheel.PNG]
+
 <img src="doc/images_readme/navigationbar_image_cool_beans.PNG" alt="screenshot of Cool Beans website navigation bar">
 <h3>Landing Page Image and Subscribe Button</h3>
 <ul>
