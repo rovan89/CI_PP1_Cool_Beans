@@ -198,4 +198,18 @@ W3C Markup Validation was used to validate the HTML for the Cool Beans website. 
 ![screenshot of gallery page accessibilty validation](doc/images_readme/validation_screenshots/accessibility_validation_gallery_page.PNG)
 
 #### Newsletter
-![screenshot of newsletter page accessibilty validation](doc/images_readme/validation_screenshots/css_validation_newsletter_page.PNG)
+![screenshot of newsletter page accessibilty validation](doc/images_readme/validation_screenshots/accessibility_validation_newsletter_page.PNG)
+
+### Performance
+
+#### Home
+![screenshot of home page performance validation](doc/images_readme/validation_screenshots/performance_validation_homepage.PNG)
+
+#### Menu
+![screenshot of menu page performance validation](doc/images_readme/validation_screenshots/performance_validation_menu_page.PNG)
+
+#### Gallery
+![screenshot of gallery page performance validation](doc/images_readme/validation_screenshots/performance_validation_gallery_page.PNG)
+
+#### Newsletter
+![screenshot of newsletter page performance validation](doc/images_readme/validation_screenshots/performance_validation_newsletter_page.PNG)
