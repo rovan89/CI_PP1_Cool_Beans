@@ -4,19 +4,24 @@
 
 ## Table of Contents
 1. Page Layouts
-    -Home Page
+    1. Home Page
+    2. Menu 
+    3. Gallery
+    4. Newsletter
 ## Project Goals
 
 ### Page Layouts
 #### Home Page
-
 The home page is designed to give the user a clear understanding of what this business is, where it is located and when the user can visit the cafe. It is intuitive and easy to navigate. 
 
 #### Menu Page
-
 The design of the menu page was to keep it simple and in a table format. I used an image of black and white bricks as the background and had the menu in a table with an overlay effect. It is clear, straightforward and easy to read. Below the menu there is a section on fairtrade, this consists of a video on fair trade coffee faring and a block of text to back it up.
 
 #### Gallery
+The images in the gallery page are selected to showcase the options on the menu, convey the vibe of the cafe and to attract the intended customer demographic.
+
+### Newsletter
+The intention of the newsletter is to capture customers details and develop a direct line of contact. This enables the owner to target this specific demographic and generate more revenue. 
 ## Features
 
 ### Navigation Bar
