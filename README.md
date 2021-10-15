@@ -1,7 +1,8 @@
 # Cool Beans
 (Developer: Devan Hayes)
 ![Image of responsive design][image]
-
+[Live website](https://rovan89.github.io/CI_PP1_Cool_Beans/)
+live
 ## Table of Contents
 1. Page Layouts
     1. Home Page
@@ -171,6 +172,20 @@ W3C Markup Validation was used to validate the HTML for the Cool Beans website. 
 ![screenshot of newsletter page html validation](doc/images_readme/validation_screenshots/html_validation_newsletter_page.PNG)
 
 ### CSS 
+
+#### Home
+![screenshot of home page css validation](doc/images_readme/validation_screenshots/css_validation_index_page.PNG)
+
+#### Menu
+![screenshot of menu page css validation](doc/images_readme/validation_screenshots/css_validation_menu_page.PNG)
+
+#### Gallery
+![screenshot of gallery page css validation](doc/images_readme/validation_screenshots/css_validation_gallery_page.PNG)
+
+#### Newsletter
+![screenshot of newsletter page css validation](doc/images_readme/validation_screenshots/css_validation_newsletter_page.PNG)
+
+### Accessibilty
 
 #### Home
 ![screenshot of home page css validation](doc/images_readme/validation_screenshots/css_validation_index_page.PNG)
