@@ -213,3 +213,55 @@ W3C Markup Validation was used to validate the HTML for the Cool Beans website. 
 
 #### Newsletter
 ![screenshot of newsletter page performance validation](doc/images_readme/validation_screenshots/performance_validation_newsletter_page.PNG)
+
+
+## Deployment
+* To deploy this site GitHub was the chosen hosting platform
+    -The steps I took to deploy this site are as follows
+        - In the GitHub repository, navigate to settings
+        - On the left side of the page navigate to pages
+        - Under the source section navigate to branch tab and choose Branch: Main
+
+[Live website](https://rovan89.github.io/CI_PP1_Cool_Beans/)
+
+## Credits 
+
+### Content
+* The responsive hamburger navigation bar was taken from https://getbootstrap.com/docs/4.0/components/navbar/#responsive-behaviors 
+* The icons used were taken from fontawesome.com
+* The favicon was taken from https://favicon.io/ 
+
+### Media 
+
+* All picture were taken form https://www.pexels.com/"
+    - Photo by Anna Urlapova from Pexels
+        - https://www.pexels.com/@urlapovaanna?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels 
+    - Photo by Chevanon Photography from Pexels
+        - https://www.pexels.com/photo/person-performing-coffee-art-302899/
+    - Photo by Michael Burrows from Pexels
+        - https://www.pexels.com/photo/crop-unrecognizable-man-showing-ripe-coffee-berries-on-hand-7125420/ 
+    - Photo by Tim Douglas from Pexels
+        - https://www.pexels.com/photo/happy-woman-baristas-working-in-modern-cafe-kitchen-6205626/
+    - Photo by Live on Shot from Pexels 
+        - https://www.pexels.com/photo/people-in-cafe-2788792/
+    - Photo by Tim Douglas from Pexels
+        - https://www.pexels.com/photo/happy-woman-showing-wooden-signboard-saying-open-6205759/
+    - Photo by ROMAN ODINTSOV from Pexels
+        - https://www.pexels.com/photo/fresh-blueberry-smoothie-and-spanish-churros-near-menu-in-cafeteria-4551414/
+    - Photo by Anna Tis from Pexels
+        - https://www.pexels.com/photo/sliced-pizza-on-white-ceramic-plate-9275985/
+    - Photo by jf valeriano from Pexels
+        - https://www.pexels.com/photo/bread-with-green-vegetable-on-white-paper-3609894/
+    - Photo by Frans Van Heerden from Pexels
+        - https://www.pexels.com/photo/grayscale-photo-of-brickwall-1022692/
+    - Photo by Ella Olsson from Pexels
+        - https://www.pexels.com/photo/photo-of-vegetable-salad-in-bowls-1640770/
+    - Photo by Nataliya Vaitkevich from Pexels
+        - https://www.pexels.com/photo/white-ceramic-bowl-with-soup-and-brown-wooden-chopsticks-5605555/
+    - Photo by RODNAE Productions from Pexels
+        - https://www.pexels.com/photo/red-and-orange-soup-in-a-bowl-on-the-wooden-table-top-5737247/
+    - Photo by Fallon Michael from Pexels
+        - https://www.pexels.com/photo/cup-of-brown-coffee-3551717/
+
+
+
