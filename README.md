@@ -5,14 +5,61 @@
 [Live website](https://rovan89.github.io/CI_PP1_Cool_Beans/)
 
 ## Table of Contents
-1. Page Layouts
+1. Page Layout
     1. Home Page
     2. Menu 
     3. Gallery
     4. Newsletter
-## Project Goals
+2. Features
+    1. Navigation Bar
+    2. Landing Page Image and Subscribe Button
+    3. Homepage Statement
+    4. Opening Hours and Map
+    5. Footer
+    6. Menu
+    7. Ethically Sourced
+    8. Hero image gallery page
+    9. Gallery
+    10. Newsletter Subscription
+3. Design
+    1. Fonts
+    2. Colour Scheme
+4. Wire Frames
+    1. Home Page
+    2. Menu
+    3. Gallery
+    4. Newsletter
+5. Technologies Used
+    1. Languages
+    2. Frameworks and Tools
+6. Validation
+    1. HTML
+        1. Home Page
+        2. Menu
+        3. Gallery
+        4. Newsletter
+    2. CSS
+        1. Home Page
+        2. Menu
+        3. Gallery
+        4. Newsletter
+    3. Accessibilty
+        1. Home Page
+        2. Menu
+        3. Gallery
+        4. Newsletter
+    4. Performance
+        1. Home Page
+        2. Menu
+        3. Gallery
+        4. Newsletter
+7. Deployment
+8. Credits
+    1. Content
+    2. Media
 
-### Page Layouts
+
+### Page Layout
 #### Home Page
 The home page is designed to give the user a clear understanding of what this business is, where it is located and when the user can visit the cafe. It is intuitive and easy to navigate. 
 
@@ -22,7 +69,7 @@ The design of the menu page was to keep it simple and in a table format. I used 
 #### Gallery
 The images in the gallery page are selected to showcase the options on the menu, convey the vibe of the cafe and to attract the intended customer demographic.
 
-### Newsletter
+#### Newsletter
 The intention of the newsletter is to capture customers details and develop a direct line of contact. This enables the owner to target this specific demographic and generate more revenue. 
 
 ## Features
